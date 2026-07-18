@@ -1,0 +1,9 @@
+python-telegram-bot==21.4
+python-dotenv
+requests
+pandas
+yfinance
+alpaca-py
+google-generativeai
+openai
+apscheduler
